@@ -1,2 +1,7 @@
-# demo-inmobiliaria-jacob-propiedades
-Demo web para "Inmobiliaria jacob propiedades — diseñada por eterlab.
+# "Inmobiliaria jacob propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
